@@ -42,7 +42,7 @@ This repository is tested with px4 compatible flight controller (Pixhawk 4) and 
 
 * ### Drone flying autonomously:
 
-    <img src="./ss/IMG_9264.gif" width="300px"> 
+    <img src="./ss/IMG_9264.gif" width="1000px"> 
     
 
 * ### Web-site screenshot taken on Iphone 11 Pro Max:
